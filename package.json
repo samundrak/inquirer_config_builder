@@ -1,0 +1,19 @@
+{
+  "name": "inquirer_config_builder",
+  "version": "1.0.0",
+  "description": "Question builder and Config builder for Inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inquirer",
+    "config",
+    "builder",
+    "configuration",
+    "question",
+    "builder"
+  ],
+  "author": "",
+  "license": "ISC"
+}
